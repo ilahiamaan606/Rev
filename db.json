@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "qq",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "excitel",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "12",
+      "id": 3
+    },
+    {
+      "username": "excitel",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "111",
+      "id": 4
+    },
+    {
+      "username": "excitel",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "22",
+      "isdocter": true,
+      "id": 5
+    }
+  ],
+  "appointments": [
+    {
+      "name": "rtrt",
+      "image": "rtt",
+      "specialization": "Cardiologist",
+      "experience": "rtrt",
+      "location": "rtrt",
+      "date": "2023-05-24",
+      "slots": "1",
+      "fee": "1",
+      "id": 1
+    },
+    {
+      "name": "rer",
+      "image": "err",
+      "specialization": "Cardiologist",
+      "experience": "er",
+      "location": "er",
+      "date": "2023-05-23",
+      "slots": "2",
+      "fee": "2",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
